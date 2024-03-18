@@ -19,7 +19,7 @@
   <nav class="navbar navbar-expand-sm bg-dark p-3">
 
 <div class="container-fluid">
-  <img src= "123.png" width="55px"/>
+  <img src= "image/123.png" width="55px"/>
 
   <!-- Links -->
   <ul class="navbar-nav">
@@ -32,7 +32,7 @@
           </li>
     
     <li class="nav-item">
-      <a class="nav-link text-light" href="logout.php">登出</a>
+      <a class="nav-link text-light" href="../php_connection/logout.php">登出</a>
     </li>
   </ul>
 </div>
